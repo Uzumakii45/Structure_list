@@ -1,0 +1,6 @@
+
+##idClienteuno ='afc001'
+#nombreClienteuno ='Edificio las manzanas'
+#cantidadPanelesInstalados = '5'
+#consumoEnergeticoDiario = 200
+#ubicacionClienteUno = 'Cll 10 nro 43-20'
